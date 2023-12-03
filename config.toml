@@ -1,0 +1,9 @@
+baseURL = "https://tati.ink"
+title = "Tati.ink"
+url = "https://localhost:1313"
+timeout = "30000s"
+theme = "photo-stream"
+
+
+[params]
+album_date_format = "2006"
